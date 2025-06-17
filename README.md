@@ -1,3 +1,3 @@
-# Database design for a bookstore
+# Projekt bazy danych dla księgarni
 C - CASCADE 
 R - RESTRICT/NO ACTION
